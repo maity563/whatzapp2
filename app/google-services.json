@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969612068067",
+    "project_id": "whatzapp-4ea2b",
+    "storage_bucket": "whatzapp-4ea2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969612068067:android:9a9ea4bbf0d90124bdf1d6",
+        "android_client_info": {
+          "package_name": "com.neatroots.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969612068067-a85gjmu36t4rcflf56i77m2t3q5l688u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGrwGh3tq4ORneSVC0xV2px_biz_9L3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969612068067-a85gjmu36t4rcflf56i77m2t3q5l688u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
