@@ -1,0 +1,6 @@
+This is my Project where I have tried to design a chatting app just like Whatsapp. Here I have connected Android Studio with FireBase Database(which acts as 
+my DataBase for storing Chat and various other type of information).  First in this app we need to create an account either by our own or through google or Facebook.
+After that we need to sign in this app.
+
+
+Through this app we can send text messages from one device to another, update profile picture and information.
